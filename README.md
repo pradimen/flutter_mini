@@ -8,6 +8,9 @@ Only admin user can add new pet details, and also products
 
 Normal user can just view information regarding pets and products
 
+Using Firebase Realtime Database for login authentication, fetch and add pet as well as product details
+
+
 Following are the Test credentials to Login to the App as Normal User and as Admin
 
 User Credentials:
@@ -18,6 +21,4 @@ Password: petfit@4321
 Admin Credentials:
 Username: petfit_admin@gmail.com
 Password: petfitAdmin@4321
-
-Note: Login Authentication is done via using Firebase
 
