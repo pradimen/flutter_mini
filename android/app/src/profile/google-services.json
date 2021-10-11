@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779885451298",
+    "project_id": "petfit-119ea",
+    "storage_bucket": "petfit-119ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779885451298:android:8f13099bc94ad99012927b",
+        "android_client_info": {
+          "package_name": "com.example.petfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779885451298-lnq9nmpkcfu3ecou8esbdnmsp5c6dbrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbsWG257L7GUOLn4teOz4YzsV2827xiFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779885451298-lnq9nmpkcfu3ecou8esbdnmsp5c6dbrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
